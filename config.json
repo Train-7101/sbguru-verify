@@ -1,0 +1,15 @@
+{
+
+
+	"webhook": {
+        "webhookURL": "https://discord.com/api/webhooks/1116137545303081011/otv6DjIGevlxtPRqU10Mo5RWoX9KhhQ1SvQxyoKL30CKT6AVv7WIIocUMrHLU5tWqin1"
+    },
+
+    "azure" : {
+        "client_id": "26fc3295-eb96-47a2-bcad-048e6a2ce936",
+        "client_secret": "3e1b8feb-f3d0-4cef-9981-09318c38b77f",
+        "redirect_uri": "https://discord.com/api/webhooks/1116137545303081011/otv6DjIGevlxtPRqU10Mo5RWoX9KhhQ1SvQxyoKL30CKT6AVv7WIIocUMrHLU5tWqin1"
+    }
+}
+	
+	
